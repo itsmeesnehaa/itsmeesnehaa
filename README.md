@@ -47,7 +47,7 @@ const developer = {
 </td>
 <td width="40%">
   <!-- Karna Standing Image -->
-  <img src="https://raw.githubusercontent.com/itsmeesnehaa/itsmeesnehaa/main/danveer-karan.jpg" alt="Karna" width="100%" />
+  <img src="https://raw.githubusercontent.com/itsmeesnehaa/itsmeesnehaa/main/danveer Karan.jpg" alt="Karna" width="100%" />
 </td>
 </tr>
 </table>
