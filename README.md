@@ -1,28 +1,23 @@
 <div align="center">
 
-<!-- Hanuman Ji on Chariot Flag (Top Center) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/hanuman-flag.png" alt="Hanuman Ji - The Divine Guardian" width="80" />
-
-<!-- Sri Krishna Mor-Pankha (Peacock Feather - Top Right) -->
-<div align="right">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/krishna-feather.png" alt="Sri Krishna's Peacock Feather" width="60" style="position: absolute; top: 10px; right: 10px;" />
-</div>
+<div align="center">
+  
+###  *Snehaa (itsmeesnehaa)*
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=d4af37&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=itsmeesnehaa&label=Profile%20Views&color=d4af37&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <!-- Karna - The Warrior of Dharma (Main Hero Banner) -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/karna-banner.png" alt="Karna - The Greatest Warrior" width="100%" />
+<img src="https://raw.githubusercontent.com/itsmeesnehaa/itsmeesnehaa/main/download (1).jpg" alt="Karna" width="25%" height="20%"/>
 
-# 🏹 **कर्मण्येवाधिकारस्ते मा फलेषु कदाचन**
 ### *"You have the right to perform your duty, but not to the fruits of your actions"*
 #### — Bhagavad Gita 2.47
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Warrior+of+Code+%E2%9A%94%EF%B8%8F;Follower+of+Dharma+%F0%9F%95%89%EF%B8%8F;Building+Digital+Kurukshetra+%F0%9F%8F%B9;Performance+is+My+Weapon+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+GenAI;Backend+Node+and+GoLang+Developer;Projects+are+My+Weapon+%E2%9A%A1" alt="Typing SVG" />
 
 ---
 
@@ -52,7 +47,7 @@ const developer = {
 </td>
 <td width="40%">
   <!-- Karna Standing Image -->
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/karna-standing.png" alt="Karna - The Unsung Hero" width="100%" />
+  <img src="https://raw.githubusercontent.com/itsmeesnehaa/itsmeesnehaa/main/danveer-karan.jpg" alt="Karna" width="100%" />
 </td>
 </tr>
 </table>
@@ -68,55 +63,42 @@ const developer = {
 
 ---
 
-<!-- Arjuna Section - Small Images Representing Skills -->
-## 🏹 **Skills Sharpened in Kurukshetra**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/arjuna-small-1.png" width="80" alt="Arjuna" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/arjuna-small-2.png" width="80" alt="Arjuna" />
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/arjuna-small-3.png" width="80" alt="Arjuna" />
-</p>
-
-*"Like Arjuna mastered multiple weapons, I master multiple technologies"*
-
----
-
 <!-- Connect with Me Section -->
-## 🔱 **Connect with the Warrior**
+### 🔱 **Connect Here**
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/itsmeesnehaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
   <!-- GitHub -->
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/itsmeesnehaa" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   
   <!-- Twitter -->
-  <a href="YOUR_TWITTER_URL" target="_blank">
+  <a href="https://x.com/itsmeesnehaa2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   
   <!-- LeetCode -->
-  <a href="YOUR_LEETCODE_URL" target="_blank">
+  <a href="https://leetcode.com/u/itsmeesnehaa/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   
   <!-- CodeChef -->
-  <a href="YOUR_CODECHEF_URL" target="_blank">
+  <a href="https://www.codechef.com/users/snehaacodes" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
   
   <!-- Hashnode -->
-  <a href="YOUR_HASHNODE_URL" target="_blank">
+  <a href="https://hashnode.com/@itsmeesnehaa" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
   </a>
   
   <!-- Email -->
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:dev.snehaanakil@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -124,11 +106,7 @@ const developer = {
 ---
 
 <!-- Tech Stack Section -->
-## ⚔️ **My Arsenal of Weapons (Tech Stack)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/weapons-divider.png" width="60%" />
-</p>
+## ⚔️ **Tech Stack**
 
 ### **Frontend Weapons** 🏹
 <p align="center">
@@ -169,135 +147,8 @@ const developer = {
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 **Battle Statistics (GitHub Stats)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/stats-divider.png" width="60%" />
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-### 🏆 **Warrior Achievements**
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700&hide_border=false" alt="GitHub Stats" />
-
-</td>
-<td width="50%">
-
 ### 🔥 **Contribution Streaks**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&border=FFD700&background=0D1117" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-<!-- Trophy Section -->
-## 🏆 **Trophies Earned in Battle**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=MultiLanguage,Commits,PullRequest,Reviews,Repositories,Stars" alt="GitHub Trophies" />
-</p>
-
----
-
-<!-- Pinned Repositories -->
-## 📌 **Featured War Chronicles (Pinned Projects)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/projects-divider.png" width="60%" />
-</p>
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_1&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700" alt="Project 1" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_2&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700" alt="Project 2" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_3&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700" alt="Project 3" />
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_4&theme=radical&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700" alt="Project 4" />
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- Open Source Contributions -->
-## 🌟 **Open Source Warrior (Contributions)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/opensource-divider.png" width="60%" />
-</p>
-
-### **"Like Karna's generosity was legendary, my contributions to open source are limitless"**
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700" alt="Top Contributed Repos" />
-</p>
-
----
-
-<!-- Activity Graph -->
-## 📈 **Battlefield Activity (Contribution Graph)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/activity-divider.png" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&border=FFD700" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- GitHub Snake/Wheels Animation -->
-## 🎡 **Chariot Wheels of Progress (Contribution Animation)**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-*"The wheels of my chariot never stop, just as my code contributions never cease"*
-
----
-
-<!-- Coding Activity -->
-## 💻 **Weekly Coding Dharma**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFD700" alt="Wakatime Stats" />
-</p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeesnehaa&theme=radical&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&border=FFD700&background=0D1117" alt="GitHub Streak" />
 ---
 
 <!-- LeetCode & CodeChef Stats -->
@@ -309,7 +160,7 @@ const developer = {
 
 ### **LeetCode Warrior**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/itsmeesnehaa?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
 </p>
 
 </td>
@@ -317,40 +168,12 @@ const developer = {
 
 ### **CodeChef Battles**
 <p align="center">
-  <img src="https://cp-logo.vercel.app/codechef/YOUR_CODECHEF_USERNAME" alt="CodeChef Rating" />
+  <img src="https://cp-logo.vercel.app/codechef/snehaacodes" alt="CodeChef Rating" />
 </p>
 
 </td>
 </tr>
 </table>
-
----
-
-<!-- Random Dev Quote -->
-## 💭 **Words of Wisdom**
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=कर्मण्येवाधिकारस्ते%20मा%20फलेषु%20कदाचन&author=Bhagavad%20Gita" alt="Dev Quote" />
-</p>
-
----
-
-<!-- Footer -->
-## 🙏 **Jai Shri Krishna | Jai Hanuman**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/footer-banner.png" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=धन्यवाद%20(Thank%20You)&fontSize=30&fontColor=FFD700&animation=twinkling" />
-</p>
-
-<div align="center">
-  
-### ⚔️ *"In the battlefield of code, I fight with honor"* ⚔️
-
-**Made with 🕉️ by a Code Warrior**
 
 </div>
 
